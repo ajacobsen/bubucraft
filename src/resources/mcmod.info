@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bubucraft",
+  "name": "BubuCraft",
+  "description": "Everything a Bubu needs.",
+  "version": "0.2.5",
+  "mcversion": "1.11",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Andy Jacobsen"],
+  "credits": "Bubu for lots of fun and insperation.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

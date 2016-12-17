@@ -1,0 +1,6 @@
+{
+    "parent": "bubucraft:item/generated",
+    "textures": {
+        "layer0": "bubucraft:items/gold_bread"
+    }
+}

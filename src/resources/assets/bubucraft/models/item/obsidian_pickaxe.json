@@ -1,0 +1,6 @@
+{
+    "parent": "bubucraft:item/handheld",
+    "textures": {
+        "layer0": "bubucraft:items/obsidian_pickaxe"
+    }
+}
